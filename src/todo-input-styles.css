@@ -1,0 +1,31 @@
+.todo__form {
+  font-family: "Lucida Console", Monaco, monospace;
+  box-sizing: border-box;
+  display: flex;
+  overflow: hidden;
+  border-radius: 50px;
+  /* Note : Border shadow from google search bar */
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+}
+.todo__input,
+.todo__add {
+  all: unset;
+  margin: 0;
+  height: 40px;
+  padding: 0 20px;
+}
+.todo__input {
+  flex-grow: 2;
+  font-size: 1.5em;
+}
+.todo__add {
+  order: -1;
+  flex-grow: 1;
+  text-align: center;
+  border-radius: 50px;
+  background-color: #dbdbdb;
+}
+.todo__add:hover {
+  color: #fff;
+  background-color: #bdbdbd;
+}
