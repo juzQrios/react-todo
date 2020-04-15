@@ -3,7 +3,7 @@
 > My personal README template.
 
 [//]: # (Screenshot, Application concept art etc)
-![Screenshot](./readme-image.png)
+![Screenshot](./screenshot.png)
 
 [//]: # (Live Demo link)
 <p align="center">
