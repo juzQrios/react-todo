@@ -1,6 +1,6 @@
 # React To-do
 
-> My personal README template.
+> To-do list app built using React.
 
 [//]: # (Screenshot, Application concept art etc)
 ![Screenshot](./screenshot.png)
